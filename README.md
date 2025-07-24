@@ -15,13 +15,10 @@ Leximind uses [Theconversation](theconversation.com)'s news.
 - Click on any paragraph to get instant translation
 - Detailed grammar analysis for each sentence
 - Vocabulary explanations with context
-- Smart sentence-level learning instead of word-by-word translation
 
 ### 🎯 Learning Tools
-- **Grammar Points**: Comprehensive grammar analysis for each paragraph
-- **Vocabulary Highlights**: Key words and phrases with explanations
-- **Contextual Translation**: Natural, context-aware translations
-- **Progressive Learning**: Build reading skills gradually
+- **Grammar Points**: Comprehensive grammar analysis for each paragraph（文章中句子的文法重點）
+- **Vocabulary Highlights**: Key words and phrases with explanations（句子中單字的解釋以及延伸重點）
 
 ## Tech Stack
 - **Frontend**: Next.js 14, React, TypeScript
@@ -34,7 +31,7 @@ Leximind uses [Theconversation](theconversation.com)'s news.
 
 ### Prerequisites
 - Node.js 18+
-- npm or yarn
+- npm or yarn or bun
 
 ### Installation
 1. Clone the repository
